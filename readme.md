@@ -1,4 +1,5 @@
 # twrp_device_xiaomi_redmi9a
+- 红米9a的设备树
 - dandelion_images_V12.0.16.0.QCDCNXM_20210803.0000.00_10.0_cn
 - https://www.bilibili.com/video/BV12P4y1t7ZZ
 ```
