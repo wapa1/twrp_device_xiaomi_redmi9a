@@ -29,5 +29,5 @@ python -m twrpdtgen -h
 
 mkdir twrpdtgen
 mv ./recovery.img ./twrpdtgen
-python -m twrpdtgen -d recovery.img
+sudo python -m twrpdtgen -d recovery.img
 ```
