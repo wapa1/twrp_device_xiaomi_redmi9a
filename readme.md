@@ -28,6 +28,8 @@ pip install twrpdtgen
 python -m twrpdtgen -h
 
 mkdir twrpdtgen
+给文件权限
+sudo chmod +x twrpdtgen
 mv ./recovery.img ./twrpdtgen
 sudo python -m twrpdtgen -d recovery.img
 ```
