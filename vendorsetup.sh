@@ -8,3 +8,7 @@
 add_lunch_combo omni_dandelion-user
 add_lunch_combo omni_dandelion-userdebug
 add_lunch_combo omni_dandelion-eng
+
+# USE MISSING
+export ALLOS_MISSING_DEPENDENCIES=true
+export LC_ALL="C"

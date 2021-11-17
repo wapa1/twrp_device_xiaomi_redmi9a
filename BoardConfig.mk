@@ -66,3 +66,6 @@ TW_EXTRA_LANGUAGES := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
+
+# Add Chinese language
+TW_DEFAULT_LANGUAGE := zh_CN
