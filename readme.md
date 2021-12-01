@@ -1,3 +1,4 @@
+# 不一定能用。。。
 # twrp_device_xiaomi_redmi9a
 - 红米9a的设备树
 - dandelion_images_V12.0.16.0.QCDCNXM_20210803.0000.00_10.0_cn
